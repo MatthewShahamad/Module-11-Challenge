@@ -1,0 +1,30 @@
+
+:root {
+  --outer-space: #416080;
+  --heliotrope: #e866ec;
+}
+
+
+::selection {
+  background-color: var(--bright-turquoise);
+  color: var(--outer-space);
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+
+  font-size: 1.75rem;
+  line-height: 1.5;
+  color: var(--gin);
+  background-color: var(--outer-space);
+}
+
+
+h1 {
+
+  font-size: 4rem;
+}
+
